@@ -1,4 +1,5 @@
 # vue-place-api
+Search restaurants nearby by google maps API - PlaceAPI | VueJS & Go 
 
 ## Project setup
 ```
